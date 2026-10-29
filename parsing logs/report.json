@@ -1,0 +1,112 @@
+{
+  "summary": {
+    "total_input_lines": 331,
+    "valid_dns_events": 331,
+    "malformed_lines": 0,
+    "skipped_lines": 0,
+    "duplicate_events": 0,
+    "unique_domains": 73,
+    "unique_client_ips": 128
+  },
+  "top_domains": [
+    {
+      "domain": "youtube.com",
+      "count": 19
+    },
+    {
+      "domain": "gmail.com",
+      "count": 15
+    },
+    {
+      "domain": "googleapis.com",
+      "count": 15
+    },
+    {
+      "domain": "gstatic.com",
+      "count": 14
+    },
+    {
+      "domain": "cloudflare.com",
+      "count": 12
+    },
+    {
+      "domain": "microsoft.com",
+      "count": 10
+    },
+    {
+      "domain": "google.com",
+      "count": 9
+    },
+    {
+      "domain": "spotify.com",
+      "count": 8
+    },
+    {
+      "domain": "amazon.com",
+      "count": 8
+    },
+    {
+      "domain": "k3aq6l6gt.info",
+      "count": 8
+    },
+    {
+      "domain": "bbc.com",
+      "count": 7
+    },
+    {
+      "domain": "zoom.us",
+      "count": 7
+    },
+    {
+      "domain": "weather.com",
+      "count": 7
+    },
+    {
+      "domain": "docker.com",
+      "count": 7
+    },
+    {
+      "domain": "ubuntu.com",
+      "count": 7
+    },
+    {
+      "domain": "npmjs.com",
+      "count": 6
+    },
+    {
+      "domain": "espn.com",
+      "count": 6
+    },
+    {
+      "domain": "nytimes.com",
+      "count": 6
+    },
+    {
+      "domain": "cloudfront.net",
+      "count": 6
+    },
+    {
+      "domain": "apple.com",
+      "count": 6
+    }
+  ],
+  "top_query_types": [
+    {
+      "type": "A",
+      "count": 331
+    }
+  ],
+  "top_response_codes": [],
+  "log_categories": {},
+  "severities": {},
+  "top_errors": [],
+  "processing": {
+    "processing_time_seconds": 0.1,
+    "average_parsing_speed_lines_per_second": 3183.18,
+    "source_files_processed": 1
+  },
+  "output": {
+    "csv_path": "C:\\Users\\choud\\OneDrive\\Desktop\\projects\\project\\parsing logs\\normalized_dns_dataset.csv",
+    "total_rows_written": 331
+  }
+}

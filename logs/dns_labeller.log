@@ -1,0 +1,516 @@
+2026-07-12 14:12:44 | INFO     | dns_labeller | Loaded 60 threat intelligence entries from local files.
+2026-07-12 14:12:44 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-12 14:12:44 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-12 14:12:44 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\drdo project\parsing logs\normalized_dns_dataset.csv
+2026-07-12 14:12:48 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-12 14:34:11 | INFO     | dns_labeller | Loaded 60 threat intelligence entries from local files.
+2026-07-12 14:34:11 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-12 14:34:11 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-12 14:34:11 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\drdo project\parsing logs\normalized_dns_dataset.csv
+2026-07-12 14:34:11 | INFO     | dns_labeller | Processing 5,000 DNS records...
+2026-07-12 14:34:13 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-19 22:02:30 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-19 22:02:30 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-19 22:02:30 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-19 22:02:30 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-19 22:02:30 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-19 22:02:30 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-19 22:02:30 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-19 22:04:15 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-19 22:04:15 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-19 22:04:15 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-19 22:04:15 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-19 22:04:15 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-19 22:04:15 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-19 22:04:15 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-19 22:04:15 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-19 22:06:46 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-19 22:06:46 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-19 22:06:46 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-19 22:06:46 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-19 22:06:46 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-19 22:06:46 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-19 22:06:46 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-19 22:06:46 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-19 22:06:46 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-19 22:06:46 | INFO     | dns_labeller | Processing 133 DNS records...
+2026-07-19 22:06:47 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-19 22:12:31 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-19 22:12:31 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-19 22:12:31 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-19 22:12:31 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-19 22:12:31 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-19 22:12:31 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-19 22:12:31 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-19 22:12:31 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-19 22:12:31 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-19 22:12:31 | INFO     | dns_labeller | Processing 133 DNS records...
+2026-07-19 22:12:31 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-19 22:18:28 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-19 22:18:28 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-19 22:18:28 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-19 22:18:28 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-19 22:18:28 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-19 22:18:28 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-19 22:18:28 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-19 22:18:28 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-19 22:18:28 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-19 22:18:28 | INFO     | dns_labeller | Processing 133 DNS records...
+2026-07-19 22:18:28 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-22 18:18:12 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-22 18:18:12 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-22 18:18:12 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-22 18:18:12 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-22 18:18:12 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-22 18:18:12 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-22 18:18:12 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-22 18:18:12 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-22 18:18:12 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-22 18:18:12 | INFO     | dns_labeller | Processing 142 DNS records...
+2026-07-22 18:18:13 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-22 18:24:43 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-22 18:24:43 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-22 18:24:43 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-22 18:24:43 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-22 18:24:43 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-22 18:24:43 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-22 18:24:43 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-22 18:24:43 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-22 18:24:43 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-22 18:24:43 | INFO     | dns_labeller | Processing 142 DNS records...
+2026-07-22 18:24:44 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-26 13:20:50 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-26 13:20:50 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-26 13:20:50 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-26 13:20:50 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-26 13:20:50 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-26 13:20:50 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-26 13:20:50 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-26 13:20:50 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-26 13:20:50 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-26 13:20:50 | INFO     | dns_labeller | Processing 642 DNS records...
+2026-07-26 13:20:52 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-26 13:29:38 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-26 13:29:38 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-26 13:29:38 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-26 13:29:38 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-26 13:29:38 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-26 13:29:38 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-26 13:29:38 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-26 13:29:38 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-26 13:29:38 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-26 13:29:38 | INFO     | dns_labeller | Processing 142 DNS records...
+2026-07-26 13:29:39 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-26 13:49:14 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-26 13:49:14 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-26 13:49:14 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-26 13:49:14 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-26 13:49:14 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-26 13:49:14 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-26 13:49:14 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-26 13:49:14 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-26 13:49:14 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-26 13:49:14 | INFO     | dns_labeller | Processing 500 DNS records...
+2026-07-26 13:49:15 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-28 09:37:30 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-28 09:37:30 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-28 09:37:30 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-28 09:37:30 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-28 09:37:30 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-28 09:37:30 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-28 09:37:30 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-28 09:37:30 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-28 09:37:30 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-28 09:37:30 | INFO     | dns_labeller | Processing 500 DNS records...
+2026-07-28 09:37:32 | INFO     | dns_labeller | Labeling completed successfully.
+2026-07-29 08:52:24 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-07-29 08:52:24 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-07-29 08:52:24 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-07-29 08:52:24 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-07-29 08:52:24 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-07-29 08:52:24 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-07-29 08:52:24 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-07-29 08:52:24 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-07-29 08:52:24 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-07-29 08:52:24 | INFO     | dns_labeller | Processing 1,000 DNS records...
+2026-07-29 08:52:27 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-01 18:48:28 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-01 18:48:28 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-01 18:48:28 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-01 18:48:28 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-01 18:48:28 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-01 18:48:28 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-01 18:48:28 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-01 18:48:28 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-01 18:48:28 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-01 18:48:28 | INFO     | dns_labeller | Processing 1,000 DNS records...
+2026-08-01 18:48:31 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-01 19:09:30 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-01 19:09:30 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-01 19:09:30 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-01 19:09:30 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-01 19:09:30 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-01 19:09:30 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-01 19:09:30 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-01 19:09:30 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-01 19:09:30 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-01 19:09:30 | INFO     | dns_labeller | Processing 1,000 DNS records...
+2026-08-01 19:09:31 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-01 19:20:50 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-01 19:20:50 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-01 19:20:50 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-01 19:20:50 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-01 19:20:50 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-01 19:20:50 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-01 19:20:50 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-01 19:20:50 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-01 19:20:50 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-01 19:20:50 | INFO     | dns_labeller | Processing 1,000 DNS records...
+2026-08-01 19:20:52 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 11:50:49 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 11:50:49 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 11:50:49 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 11:50:49 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 11:50:49 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 11:50:49 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 11:50:49 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 11:50:49 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 11:50:49 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 11:50:49 | INFO     | dns_labeller | Processing 1,000 DNS records...
+2026-08-02 11:50:50 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 11:51:38 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 11:51:38 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 11:51:38 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 11:51:38 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 11:51:38 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 11:51:38 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 11:51:38 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 11:51:38 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 11:51:38 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 11:51:38 | INFO     | dns_labeller | Processing 427 DNS records...
+2026-08-02 11:51:39 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 12:42:07 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 12:42:07 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 12:42:07 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 12:42:07 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 12:42:07 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 12:42:07 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 12:42:07 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 12:42:07 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 12:42:07 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 12:42:07 | INFO     | dns_labeller | Processing 427 DNS records...
+2026-08-02 12:42:08 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:00:01 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:00:01 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:00:01 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:00:01 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:00:01 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:00:01 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:00:01 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:00:01 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:00:01 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:00:01 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:00:01 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:01:26 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:01:26 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:01:26 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:01:26 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:01:26 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:01:26 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:01:26 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:01:26 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:01:26 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:01:26 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:01:26 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:10:43 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:10:43 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:10:43 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:10:43 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:10:43 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:10:43 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:10:43 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:10:43 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:10:43 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:10:43 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:10:44 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:14:34 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:14:34 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:14:34 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:14:34 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:14:34 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:14:34 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:14:34 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:14:34 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:14:34 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:14:34 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:14:34 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:35:41 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:35:41 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:35:41 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:35:41 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:35:41 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:35:41 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:35:41 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:35:41 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:35:41 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:35:41 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:35:41 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 13:59:00 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 13:59:00 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 13:59:00 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 13:59:00 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 13:59:00 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 13:59:00 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 13:59:00 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 13:59:00 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 13:59:00 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 13:59:00 | INFO     | dns_labeller | Processing 330 DNS records...
+2026-08-02 13:59:00 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 14:10:01 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 14:10:01 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 14:10:01 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 14:10:01 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 14:10:01 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 14:10:01 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 14:10:01 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 14:10:01 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 14:10:01 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 14:10:01 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 14:10:01 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 14:26:53 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 14:26:53 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 14:26:53 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 14:26:53 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 14:26:53 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 14:26:53 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 14:26:53 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 14:26:53 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 14:26:53 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 14:26:53 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 14:26:54 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 14:29:12 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 14:29:12 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 14:29:12 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 14:29:12 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 14:29:12 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 14:29:12 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 14:29:12 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 14:29:12 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 14:29:12 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 14:29:12 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 14:29:13 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 14:29:48 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 14:29:48 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 14:29:48 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 14:29:48 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 14:29:48 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 14:29:48 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 14:29:48 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 14:29:48 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 14:29:48 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 14:29:48 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 14:29:49 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 14:32:08 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 14:32:08 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 14:32:08 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 14:32:08 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 14:32:08 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 14:32:08 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 14:32:08 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 14:32:08 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 14:32:08 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 14:32:08 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 14:32:09 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 15:05:15 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 15:05:15 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 15:05:15 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 15:05:15 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 15:05:15 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 15:05:15 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 15:05:15 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 15:05:15 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 15:05:15 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 15:05:15 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 15:05:15 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 21:39:10 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 21:39:10 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 21:39:10 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 21:39:10 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 21:39:10 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 21:39:10 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 21:39:10 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 21:39:10 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 21:39:10 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 21:39:10 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 21:39:11 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-02 21:49:03 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-02 21:49:03 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-02 21:49:03 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-02 21:49:03 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-02 21:49:03 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-02 21:49:03 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-02 21:49:03 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-02 21:49:03 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-02 21:49:03 | INFO     | dns_labeller | Loading dataset: C:\Users\choud\OneDrive\Desktop\projects\project\parsing logs\normalized_dns_dataset.csv
+2026-08-02 21:49:03 | INFO     | dns_labeller | Processing 331 DNS records...
+2026-08-02 21:49:04 | INFO     | dns_labeller | Labeling completed successfully.
+2026-08-08 16:17:03 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-08 16:17:03 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-08 16:17:03 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-08 16:17:03 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-08 16:17:03 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-08 16:17:03 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-08 16:17:03 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-08 16:17:03 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-08 16:22:09 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-08 16:22:09 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-08 16:22:09 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-08 16:22:09 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-08 16:22:09 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-08 16:22:09 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-08 16:22:09 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-08 16:22:09 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-09 11:40:25 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-09 11:40:25 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-09 11:40:25 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-09 11:40:25 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-09 11:40:25 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-09 11:40:25 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-09 11:40:25 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-09 11:40:25 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-09 13:11:59 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-09 13:11:59 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-09 13:11:59 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-09 13:11:59 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-09 13:11:59 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-09 13:11:59 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-09 13:11:59 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-09 13:11:59 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-09 13:25:31 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-09 13:25:31 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-09 13:25:31 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-09 13:25:31 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-09 13:25:31 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-09 13:25:31 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-09 13:25:31 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-09 13:25:31 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-09 16:13:32 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-09 16:13:32 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-09 16:13:32 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-09 16:13:32 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-09 16:13:32 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-09 16:13:32 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-09 16:13:32 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-09 16:13:32 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-12 22:19:11 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-12 22:19:11 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-12 22:19:11 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-12 22:19:11 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-12 22:19:11 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-12 22:19:11 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-12 22:19:11 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-12 22:19:11 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-12 22:20:21 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-12 22:20:21 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-12 22:20:21 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-12 22:20:21 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-12 22:20:21 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-12 22:20:21 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-12 22:20:21 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-12 22:20:21 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-12 22:21:46 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-12 22:21:46 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-12 22:21:46 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-12 22:21:46 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-12 22:21:46 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-12 22:21:46 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-12 22:21:46 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-12 22:21:46 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-12 22:28:42 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-12 22:28:42 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-12 22:28:42 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-12 22:28:42 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-12 22:28:42 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-12 22:28:42 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-12 22:28:42 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-12 22:28:42 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-12 22:32:24 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-12 22:32:24 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-12 22:32:24 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-12 22:32:24 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-12 22:32:24 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-12 22:32:24 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-12 22:32:24 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-12 22:32:24 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-13 23:59:22 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-13 23:59:22 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-13 23:59:22 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-13 23:59:22 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-13 23:59:22 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-13 23:59:22 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-13 23:59:22 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-13 23:59:22 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-14 00:01:04 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-14 00:01:04 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-14 00:01:04 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-14 00:01:04 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-14 00:01:04 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-14 00:01:04 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-14 00:01:04 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-14 00:01:04 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-14 00:21:55 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-14 00:21:55 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-14 00:21:55 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-14 00:21:55 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-14 00:21:55 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-14 00:21:55 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-14 00:21:55 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-14 00:21:55 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-14 09:42:44 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-14 09:42:44 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-14 09:42:44 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-14 09:42:44 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-14 09:42:44 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-14 09:42:44 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-14 09:42:44 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-14 09:42:44 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-14 09:49:47 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-14 09:49:47 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-14 09:49:47 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-14 09:49:47 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-14 09:49:47 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-14 09:49:47 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-14 09:49:47 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-14 09:49:47 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-15 11:40:59 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-15 11:40:59 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-15 11:40:59 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-15 11:40:59 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-15 11:40:59 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-15 11:40:59 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-15 11:40:59 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-15 11:40:59 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-15 12:45:58 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-15 12:45:58 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-15 12:45:58 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-15 12:45:58 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-15 12:45:58 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-15 12:45:58 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-15 12:45:58 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-15 12:45:58 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-15 13:01:54 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-15 13:01:54 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-15 13:01:54 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-15 13:01:54 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-15 13:01:54 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-15 13:01:54 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-15 13:01:54 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-15 13:01:54 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
+2026-08-15 13:03:21 | WARNING  | dns_labeller | Intel file missing: malicious_domains.txt
+2026-08-15 13:03:21 | WARNING  | dns_labeller | Intel file missing: phishing_domains.txt
+2026-08-15 13:03:21 | WARNING  | dns_labeller | Intel file missing: botnet_domains.txt
+2026-08-15 13:03:21 | WARNING  | dns_labeller | Intel file missing: cryptomining_domains.txt
+2026-08-15 13:03:21 | WARNING  | dns_labeller | Intel file missing: suspicious_tlds.txt
+2026-08-15 13:03:21 | INFO     | dns_labeller | Loaded 0 threat intelligence entries from local files.
+2026-08-15 13:03:21 | INFO     | dns_labeller | Threat Intelligence module initialized (offline mode).
+2026-08-15 13:03:21 | INFO     | dns_labeller | DNS Dataset Labeller initialized (training data only - offline).
