@@ -1,2 +1,4 @@
 
 .env
+
+labeler/intel/trusted_domains.db
